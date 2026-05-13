@@ -1,0 +1,25 @@
+device id,abbreviation,name,protocol
+0,MatterCTRL,Matter controller in Home Assistant,Wi-Fi
+1,ASL,Aqara Smart Lock U300,Thread
+2,AL1,"Aqara Light T2 (GU10, CCT)",Thread
+3,AL2,"Aqara Light T2 (GU10, CCT)",Thread
+4,AMS,Aqara Motion Sensor P2,Thread
+5,CL,Cono Lamp - Umbra,Thread
+6,EDW1,Eve Door and Window 20EBN9901,Thread
+7,EDW2,Eve Door and Window 20EBN9901,Thread
+8,ESP,Eve Energy 20EBO8301,Thread
+9,EW,Eve Weather 20EBS9901,Thread
+10,EMS1,Eve Motion Sensor 20EBY9901,Thread
+11,EMS2,Eve Motion Sensor 20EBY9901,Thread
+12,NL1,Nanoleaf Essentials Matter Smart Bulb NL67E200,Thread
+13,NL2,Nanoleaf Essentials Matter Smart Bulb NL67E200,Thread
+14,NL3,Nanoleaf Essentials Matter Smart Bulb NL67E200,Thread
+15,MSP1,Meross Wi-Fi Plug Mini MSS315,Wi-Fi
+16,MSP2,Meross Wi-Fi Plug Mini MSS315,Wi-Fi
+17,MMS,Meross Motion Sensor MS600,Wi-Fi
+18,SSP1,Sonoff Smart Plug (MINIR4M Extreme),Wi-Fi
+19,SSP2,Sonoff Smart Plug (MINIR4M Extreme),Wi-Fi
+20,TR,Tado Radiator (Smart Radiator Thermostat X),Thread
+21,TSP1,Tapo Smart Plug P110M,Wi-Fi
+22,TSP2,Tapo Smart Plug P110M,Wi-Fi
+23,TL,Tapo Light L535E,Wi-Fi
